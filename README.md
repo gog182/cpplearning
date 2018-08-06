@@ -1,2 +1,2 @@
 # cpplearning
-C++ project for study
+C++ project for study, edited from PC.
